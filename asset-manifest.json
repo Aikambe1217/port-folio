@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Aikambe1217/port-folio.git/static/css/main.b0ed4b93.css",
+    "main.js": "/Aikambe1217/port-folio.git/static/js/main.63cc2db2.js",
+    "static/media/young-african-man-pointing-finger-side-blue-wall.jpg": "/Aikambe1217/port-folio.git/static/media/young-african-man-pointing-finger-side-blue-wall.02af802115b222b04cb6.jpg",
+    "index.html": "/Aikambe1217/port-folio.git/index.html",
+    "main.b0ed4b93.css.map": "/Aikambe1217/port-folio.git/static/css/main.b0ed4b93.css.map",
+    "main.63cc2db2.js.map": "/Aikambe1217/port-folio.git/static/js/main.63cc2db2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0ed4b93.css",
+    "static/js/main.63cc2db2.js"
+  ]
+}
