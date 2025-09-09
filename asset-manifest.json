@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/port-folio/static/css/main.b0ed4b93.css",
-    "main.js": "/port-folio/static/js/main.b18c696f.js",
-    "static/media/young-african-man-pointing-finger-side-blue-wall.jpg": "/port-folio/static/media/young-african-man-pointing-finger-side-blue-wall.02af802115b222b04cb6.jpg",
+    "main.js": "/port-folio/static/js/main.0beec330.js",
+    "static/media/me.jpeg": "/port-folio/static/media/me.6d6fbca36c37e91d4135.jpeg",
     "index.html": "/port-folio/index.html",
     "main.b0ed4b93.css.map": "/port-folio/static/css/main.b0ed4b93.css.map",
-    "main.b18c696f.js.map": "/port-folio/static/js/main.b18c696f.js.map"
+    "main.0beec330.js.map": "/port-folio/static/js/main.0beec330.js.map"
   },
   "entrypoints": [
     "static/css/main.b0ed4b93.css",
-    "static/js/main.b18c696f.js"
+    "static/js/main.0beec330.js"
   ]
 }
