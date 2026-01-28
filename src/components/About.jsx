@@ -1,5 +1,5 @@
 import React from "react";
-import me from "../Assets/young-african-man-pointing-finger-side-blue-wall.jpg"
+import me from "../Assets/me.jpeg"
 const About = () => {
   return (
     <div className="w-full bg-white py-16 px-4 text-white" id="about">
