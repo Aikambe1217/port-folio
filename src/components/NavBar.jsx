@@ -34,14 +34,14 @@ const NavBar = () => {
       className={`
         md:sticky md:top-0 md:z-50
         transition-all duration-300 sticky top-0 z-50
-        ${scrolled ? "md:bg-white bg-white" : "md:bg-transparent"}
+        ${scrolled ? "md:bg-black bg-black" : "md:bg-white bg-white"}
       `}
     >
       <div
         className={`
           flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4
           text-white
-          ${scrolled ? "md:text-black" : "md:text-white"}
+          ${scrolled ? "md:text-white" : "md:text-black"}
         `}
       >
         <h1 className="w-full text-3xl font-bold text-[#00df9a]">AIKAMBE</h1>
@@ -65,9 +65,9 @@ const NavBar = () => {
         {/* Mobile Menu Icon (UNCHANGED) */}
         <div onClick={handleNav} className="block md:hidden">
           {!nav ? (
-          <i className={`fa-solid fa-bars text-2xl cursor-pointer ${scrolled ? "text-black" : "text-white"}`}></i>
+          <i className={`fa-solid fa-bars text-2xl cursor-pointer ${scrolled ? "text-white" : "text-black"}`}></i>
           ) : (
-            <i className={`fa-solid fa-xmark text-2xl cursor-pointer ${scrolled ? "text-black" : "text-white"}`}></i>
+            <i className={`fa-solid fa-xmark text-2xl cursor-pointer ${scrolled ? "text-white" : "text-black"}`}></i>
           )}
         </div>
 
